@@ -1,0 +1,9 @@
+__pycache__/
+backup/
+build/
+dist/
+icons.iconset
+sensor.icns
+.DS_Store
+sensors.code-workspace
+sensors.json
